@@ -2,7 +2,7 @@
 Website untuk promosi jasa desain.
 <p align="left">
 <br>
-  ![This is an image](https://github.com/mdzakied/Jasign/blob/master/assets/img/Jasign.png)
+  <img src="https://user-images.githubusercontent.com/87967665/142647731-082c357a-c469-40c9-94a3-18cf05aab965.png" border="0" width="350">
 </p>
 
 ## Fitur
@@ -18,3 +18,4 @@ Website untuk promosi jasa desain.
 - AOS
 - Font Awesome
 - Owl Carousel
+
